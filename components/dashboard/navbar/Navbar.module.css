@@ -1,0 +1,9 @@
+.navBar {
+    width: 14rem;
+    height: 100vh;
+    color: #fff;
+}
+
+.navBarItem :hover {
+    color: #ffffff;
+}

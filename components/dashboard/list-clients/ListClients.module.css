@@ -1,0 +1,12 @@
+.UpdateModal {
+    width: 50rem;
+    height: 30rem;
+
+    padding: 3rem;
+    margin: 0 auto;
+    margin-top: 10rem;
+
+    background-color: white;
+    border-radius: 25px;
+    border: 1px solid black;
+}
